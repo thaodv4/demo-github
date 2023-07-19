@@ -1,2 +1,2 @@
 const hihi = "hihi"
-const hoho = "hoho12"
+const hoho = "hoho1"
